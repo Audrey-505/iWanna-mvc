@@ -44,7 +44,7 @@ The user sign up to test the various features offered by the application.
 
 ## Questions
 
-For any questions please email me at landonbmurray@icloud.com
+For any questions please email me at adrianaquin22@gmail.com
 ## Links 
 
 https://iwanna.herokuapp.com/
